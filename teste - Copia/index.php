@@ -71,7 +71,7 @@ $totalSaida = $conn->query("SELECT SUM(valor) AS total FROM extrato WHERE tipo='
                 <th>Descrição</th>
                 <th>Tipo</th>
                 <th>Valor</th>
-                <th>Ação</th>
+                <th>Açã</th>
             </tr>
         </thead>
         <tbody>
